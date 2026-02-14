@@ -1,0 +1,9 @@
+fecha,producto,categoria,cliente,unidades,precio_unitario,costo_unitario
+2025-01-01,Pollo Asado,Comida,Cliente A,5,150,90
+2025-01-01,Papas Fritas,Comida,Cliente B,10,40,25
+2025-01-02,Pollo Asado,Comida,Cliente C,3,150,90
+2025-01-02,Hamburguesa,Comida,Cliente A,4,120,70
+2025-01-03,Papas Fritas,Comida,Cliente D,8,40,25
+2025-01-03,Hamburguesa,Comida,Cliente B,6,120,70
+2025-01-04,Pollo Asado,Comida,Cliente A,7,150,90
+2025-01-04,Papas Fritas,Comida,Cliente C,12,40,25
